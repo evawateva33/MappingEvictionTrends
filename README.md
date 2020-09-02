@@ -2,6 +2,8 @@
 Mapping Eviction Trends in the City of Patterson
 # MappingEvictionTrends
 
+USING THE GITHUB PLATFORM IS ADVISED BUT IF YOU INSIST: 
+
 
 **In order to pull the repository to your local computer:**
 
