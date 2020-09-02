@@ -7,9 +7,9 @@ Mapping Eviction Trends in the City of Patterson
 
 *git clone https://github.com/MappingEvictionTrends.git*
 
-*Username for 'https://github.com':MappingEvictionTrends*
+*Username for 'https://github.com':MappingEvictionTrends* 
 
-*Password for 'https://MappingEvictionTrends@github.com': *
+*Password for 'https://MappingEvictionTrends@github.com': * email eva: esidlo@berkeley.edu 
 
 *cd MappingEvictionTrends*
 
